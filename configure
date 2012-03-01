@@ -21546,10 +21546,14 @@ esac
 
 # only needed because of ntohl() usage, can get rid of after that's gone:
 case "$host" in
-	*-*-cygwin|*mingw*) MINGW_WINSOCK_LIBS=-lwsock32 ;;
+	*-*-cygwin|*mingw*) MINGW_WINSOCK_LIBS=-lws2_32 ;;
 	*) MINGW_WINSOCK_LIBS= ;;
 esac
 
+case "$host" in
+	*mingw*) LDFLAGS="$LD_FLAGS -no-undefined" ;;
+	*) ;;
+esac
 
 case "$host" in
 	*-pc-linux-gnu)
