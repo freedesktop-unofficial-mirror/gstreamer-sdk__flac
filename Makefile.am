@@ -28,6 +28,7 @@
 # distclean: remove everything except what goes in the distribution
 #
 
+ACLOCAL_AMFLAGS = -I m4
 AUTOMAKE_OPTIONS = foreign 1.7
 
 SUBDIRS = doc include m4 man src examples test build obj
