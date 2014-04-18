@@ -20,7 +20,7 @@
 #  include <config.h>
 #endif
 
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "private/bitwriter.h" /* from the libFLAC private include area */
 #include "bitwriter.h"
 #include <stdio.h>

@@ -22,7 +22,7 @@
 
 #include "options.h"
 #include "utils.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "share/grabbag.h" /* for grabbag__file_get_filesize() */
 #include "share/utf8.h"
 #include <errno.h>

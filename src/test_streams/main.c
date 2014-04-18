@@ -28,7 +28,7 @@
 #else
 #include <sys/time.h>
 #endif
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/ordinals.h"
 
 #ifndef M_PI

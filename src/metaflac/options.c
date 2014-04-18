@@ -23,7 +23,7 @@
 #include "options.h"
 #include "usage.h"
 #include "utils.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "share/alloc.h"
 #include "share/grabbag/replaygain.h"
 #include <ctype.h>

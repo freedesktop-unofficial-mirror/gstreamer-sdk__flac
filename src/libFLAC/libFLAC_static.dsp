@@ -426,7 +426,7 @@ SOURCE=..\..\include\FLAC\all.h
 # End Source File
 # Begin Source File
 
-SOURCE=..\..\include\FLAC\assert.h
+SOURCE=..\..\include\FLAC\flac_assert.h
 # End Source File
 # Begin Source File
 

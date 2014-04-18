@@ -20,7 +20,7 @@
 #  include <config.h>
 #endif
 
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/format.h"
 #include "format.h"
 #include <stdio.h>

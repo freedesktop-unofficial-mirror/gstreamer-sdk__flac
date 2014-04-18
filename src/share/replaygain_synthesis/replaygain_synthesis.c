@@ -42,7 +42,7 @@
 #include <math.h>
 #include "private/fast_float_math_hack.h"
 #include "replaygain_synthesis.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 
 #ifndef FLaC__INLINE
 #define FLaC__INLINE

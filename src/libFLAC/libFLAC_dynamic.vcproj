@@ -378,7 +378,7 @@
 				>
 			</File>
 			<File
-				RelativePath="..\..\include\FLAC\assert.h"
+				RelativePath="..\..\include\FLAC\flac_assert.h"
 				>
 			</File>
 			<File

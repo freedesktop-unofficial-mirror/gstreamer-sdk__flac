@@ -24,7 +24,7 @@
 #include <string.h>
 #include "options.h"
 #include "utils.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "share/grabbag.h" /* for grabbag__picture_parse_specification() etc */
 
 #include "operations_shorthand.h"

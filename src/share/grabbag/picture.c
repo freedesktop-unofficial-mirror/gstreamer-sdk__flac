@@ -22,7 +22,7 @@
 
 #include "share/alloc.h"
 #include "share/grabbag.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

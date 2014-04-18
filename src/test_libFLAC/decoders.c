@@ -31,7 +31,7 @@
 #endif
 #endif
 #include "decoders.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/stream_decoder.h"
 #include "share/grabbag.h"
 #include "test_libs_common/file_utils_flac.h"

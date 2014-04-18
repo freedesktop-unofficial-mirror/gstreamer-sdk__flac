@@ -21,7 +21,7 @@
 #endif
 
 #include "vorbiscomment.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/metadata.h"
 #include "share/grabbag.h" /* for grabbag__file_get_filesize() */
 #include "share/utf8.h"

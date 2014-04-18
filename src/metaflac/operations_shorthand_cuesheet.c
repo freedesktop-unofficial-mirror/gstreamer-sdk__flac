@@ -25,7 +25,7 @@
 #include <string.h>
 #include "options.h"
 #include "utils.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "share/grabbag.h"
 #include "operations_shorthand.h"
 

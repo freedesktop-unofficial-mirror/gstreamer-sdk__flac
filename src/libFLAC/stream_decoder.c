@@ -52,7 +52,7 @@
 #define ftello ftell
 #endif
 #endif
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "share/alloc.h"
 #include "protected/stream_decoder.h"
 #include "private/bitreader.h"

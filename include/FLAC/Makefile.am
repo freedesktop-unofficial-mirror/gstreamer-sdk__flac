@@ -32,7 +32,7 @@ flaccincludedir = $(includedir)/FLAC
 
 flaccinclude_HEADERS = \
 	all.h \
-	assert.h \
+	flac_assert.h \
 	callback.h \
 	export.h \
 	format.h \

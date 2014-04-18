@@ -30,7 +30,7 @@
 #include <stdio.h> /* for FILE etc. */
 #include <stdlib.h> /* for calloc() etc. */
 #include <string.h> /* for memcmp() etc. */
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/metadata.h"
 #include "share/alloc.h"
 #include "foreign_metadata.h"

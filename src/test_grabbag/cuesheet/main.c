@@ -24,7 +24,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/metadata.h"
 #include "share/grabbag.h"
 

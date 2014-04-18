@@ -17,7 +17,7 @@
  */
 
 #include "encoders.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC++/encoder.h"
 #include "share/grabbag.h"
 extern "C" {

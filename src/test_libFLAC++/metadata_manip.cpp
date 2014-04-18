@@ -36,7 +36,7 @@
 #include <unistd.h> /* for chown(), unlink() */
 #endif
 #include <sys/stat.h> /* for stat(), maybe chmod() */
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC++/decoder.h"
 #include "FLAC++/metadata.h"
 #include "share/grabbag.h"

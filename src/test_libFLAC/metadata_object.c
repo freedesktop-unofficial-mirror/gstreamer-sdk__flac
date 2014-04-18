@@ -20,7 +20,7 @@
 #  include <config.h>
 #endif
 
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/metadata.h"
 #include "test_libs_common/metadata_utils.h"
 #include "metadata.h"

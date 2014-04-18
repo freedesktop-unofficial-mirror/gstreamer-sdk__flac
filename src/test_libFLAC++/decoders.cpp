@@ -31,7 +31,7 @@
 #endif
 #endif
 #include "decoders.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/metadata.h" // for ::FLAC__metadata_object_is_equal()
 #include "FLAC++/decoder.h"
 #include "share/grabbag.h"

@@ -21,7 +21,7 @@
 #endif
 
 #include "utils.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "share/alloc.h"
 #include "share/utf8.h"
 #include <ctype.h>

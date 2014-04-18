@@ -21,7 +21,7 @@
 #endif
 
 #include "utils.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/metadata.h"
 #include <math.h>
 #include <stdarg.h>

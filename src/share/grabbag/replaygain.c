@@ -22,7 +22,7 @@
 
 #include "share/grabbag.h"
 #include "share/replaygain_analysis.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/metadata.h"
 #include "FLAC/stream_decoder.h"
 #include <locale.h>

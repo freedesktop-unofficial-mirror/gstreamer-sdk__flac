@@ -31,7 +31,7 @@
 
 #include "FLAC++/encoder.h"
 #include "FLAC++/metadata.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 
 #ifdef _MSC_VER
 // warning C4800: 'int' : forcing to bool 'true' or 'false' (performance warning)

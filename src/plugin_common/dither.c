@@ -25,7 +25,7 @@
 #endif
 
 #include "dither.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 
 #ifdef max
 #undef max

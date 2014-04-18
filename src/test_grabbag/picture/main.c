@@ -21,7 +21,7 @@
 #endif
 
 #include <string.h>
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "share/grabbag.h"
 
 typedef struct {

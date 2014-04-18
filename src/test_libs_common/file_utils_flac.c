@@ -20,7 +20,7 @@
 #  include <config.h>
 #endif
 
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/stream_encoder.h"
 #include "test_libs_common/file_utils_flac.h"
 #include <stdio.h>

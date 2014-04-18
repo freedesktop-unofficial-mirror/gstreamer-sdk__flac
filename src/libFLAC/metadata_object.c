@@ -38,7 +38,7 @@
 
 #include "private/metadata.h"
 
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "share/alloc.h"
 
 

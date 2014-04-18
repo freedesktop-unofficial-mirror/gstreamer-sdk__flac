@@ -32,7 +32,7 @@
 #define __STDC_LIMIT_MACROS 1 /* otherwise SIZE_MAX is not defined for c++ */
 #include "share/alloc.h"
 #include "FLAC++/metadata.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include <stdlib.h> // for malloc(), free()
 #include <string.h> // for memcpy() etc.
 

@@ -25,7 +25,7 @@
 #include <stdlib.h>
 
 #include "tags.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/metadata.h"
 #include "share/alloc.h"
 

@@ -30,7 +30,7 @@
 #include <sys/time.h>
 #endif
 #include <sys/stat.h> /* for stat() */
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/metadata.h"
 #include "FLAC/stream_decoder.h"
 

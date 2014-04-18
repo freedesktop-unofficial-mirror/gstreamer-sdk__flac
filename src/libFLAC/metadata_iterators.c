@@ -59,7 +59,7 @@
 
 #include "private/metadata.h"
 
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include "FLAC/stream_decoder.h"
 #include "share/alloc.h"
 

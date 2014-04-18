@@ -21,7 +21,7 @@
 #endif
 
 #include "share/grabbag.h"
-#include "FLAC/assert.h"
+#include "FLAC/flac_assert.h"
 #include <stdlib.h> /* for atoi() */
 #include <string.h>
 
